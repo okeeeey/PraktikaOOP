@@ -1,0 +1,55 @@
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\bin\Debug\baseform.exe.config
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\bin\Debug\baseform.exe
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\bin\Debug\baseform.pdb
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.form_baseform.resources
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.Properties.Resources.resources
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.csproj.GenerateResource.Cache
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.exe
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач\baseform\baseform\obj\Debug\baseform.pdb
+D:\Programs\Курсач Ани\baseform\bin\Debug\baseform.exe.config
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.exe
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.pdb
+D:\Programs\Курсач Ани\baseform\bin\Debug\baseform.exe
+D:\Programs\Курсач Ани\baseform\bin\Debug\baseform.pdb
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.csprojResolveAssemblyReference.cache
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.Properties.Resources.resources
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.csproj.GenerateResource.Cache
+F:\other\Программы\Курсач Ани\baseform\bin\Debug\baseform.exe.config
+F:\other\Программы\Курсач Ани\baseform\obj\Debug\baseform.exe
+F:\other\Программы\Курсач Ани\baseform\obj\Debug\baseform.pdb
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\bin\Debug\baseform.exe.config
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.exe
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.pdb
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\bin\Debug\baseform.exe
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\bin\Debug\baseform.pdb
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.form_baseform.resources
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.Properties.Resources.resources
+C:\Users\Анна\Desktop\МАИ\4 семестр\ООП\Курсач Ани\baseform\obj\Debug\baseform.csproj.GenerateResource.Cache
+C:\as L\Programs\Курсач Ани\baseform\bin\Debug\baseform.exe.config
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.exe
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.pdb
+C:\as L\Programs\Курсач Ани\baseform\bin\Debug\baseform.exe
+C:\as L\Programs\Курсач Ани\baseform\bin\Debug\baseform.pdb
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.csprojResolveAssemblyReference.cache
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.form_baseform.resources
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.Properties.Resources.resources
+C:\as L\Programs\Курсач Ани\baseform\obj\Debug\baseform.csproj.GenerateResource.Cache
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\bin\Debug\baseform.exe.config
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.exe
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.pdb
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\bin\Debug\baseform.exe
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\bin\Debug\baseform.pdb
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.csprojResolveAssemblyReference.cache
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.Properties.Resources.resources
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.csproj.GenerateResource.Cache
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.Level1.resources
+D:\Programs\Курсач Ани\baseform\bin\Debug\LevelBase.dll
+D:\Programs\Курсач Ани\baseform\bin\Debug\LevelBase.pdb
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.Level1.resources
+D:\Programs\Курсач Ани\baseform\obj\Debug\baseform.Level2.resources
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\bin\Debug\LevelBase.dll
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\bin\Debug\LevelBase.pdb
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.Level2.resources
+C:\Users\anuta_000\Desktop\Курсач Ани\baseform\obj\Debug\baseform.Level3.resources
